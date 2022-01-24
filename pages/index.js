@@ -80,7 +80,7 @@ export default function PaginaInicial() {
           justifyContent: 'center',
           backgroundColor: appConfig.theme.colors.primary[500],
           backgroundImage:
-            'url(https://virtualbackgrounds.site/wp-content/uploads/2020/08/the-matrix-digital-rain.jpg)',
+            'url(https://images.unsplash.com/photo-1506964766-a7a178d65adb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80)',
           backgroundRepeat: 'no-repeat',
           backgroundSize: 'cover',
           backgroundBlendMode: 'multiply'
